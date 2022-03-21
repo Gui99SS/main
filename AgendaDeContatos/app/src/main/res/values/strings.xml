@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Agenda De Contatos</string>
+    <string name="title_home">Contact Directory</string>
+    <string name="title_new_contact">New Contact</string>
+    <string name="label_name">Name</string>
+    <string name="label_phone">Phone</string>
+    <string name="label_confirm_message">Contact saved successfully.</string>
+
+</resources>
